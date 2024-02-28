@@ -29,7 +29,7 @@ status-website:
   logoUrl: https://umbhost.net/media/bckiw2jz/umbhost-logo-alt-strapline-white.svg
   favicon: https://umbhost.net/icons/favicon-32x32.png
   introTitle: "UmbHost Limited Status Page"
-  introMessage: This is where you can see the Live status, planned maintenance and historical status for your services.
+  introMessage: This is where you can see the Live status, planned maintenance and historical status for our services.
   navbar:
     - title: Status
       href: /
