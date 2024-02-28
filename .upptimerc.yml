@@ -24,7 +24,6 @@ status-website:
   cname: upptime.umbhost.dev
   # baseUrl: /your-repo-name
   #baseUrl: /Status-Page
-  logoUrl: https://raw.githubusercontent.com/UmbHost/Status-Page/master/static/img/icon.svg
   name: UmbHost Limited
   logoUrl: https://umbhost.net/media/bckiw2jz/umbhost-logo-alt-strapline-white.svg
   favicon: https://umbhost.net/icons/favicon-32x32.png
