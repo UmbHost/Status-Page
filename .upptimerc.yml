@@ -17,7 +17,8 @@ sites:
     url: https://docs.umbcheckout.net
   - name: UmbCheckout Demo
     url: https://demo.umbcheckout.net
-
+i18n:
+  footer: Copyright © 2024 UmbHost Limited, All Rights Reserved
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -36,6 +37,5 @@ status-website:
       href: https://my.umbhost.net/knowledgebase
     - title: Support Tickets
       href: https://my.umbhost.net/submitticket.php
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
