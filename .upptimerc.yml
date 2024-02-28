@@ -17,6 +17,8 @@ sites:
     url: https://docs.umbcheckout.net
   - name: UmbCheckout Demo
     url: https://demo.umbcheckout.net
+  - name: SolidCP Control Panel
+    url: https://panel.umbhost.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
