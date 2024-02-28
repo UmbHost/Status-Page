@@ -26,6 +26,8 @@ status-website:
   #baseUrl: /Status-Page
   logoUrl: https://raw.githubusercontent.com/UmbHost/Status-Page/master/static/img/icon.svg
   name: UmbHost Limited
+  logoUrl: https://umbhost.net/media/bckiw2jz/umbhost-logo-alt-strapline-white.svg
+  favicon: https://umbhost.net/icons/favicon-32x32.png
   introTitle: "UmbHost Limited Status Page"
   introMessage: This is where you can see the Live status, planned maintenance and historical status for your services.
   navbar:
