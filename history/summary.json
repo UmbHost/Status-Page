@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 985,
     "timeDay": 1288,
-    "timeWeek": 985,
+    "timeWeek": 954,
     "timeMonth": 985,
     "timeYear": 985,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 207,
-    "timeWeek": 217,
+    "timeWeek": 264,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 795,
     "timeDay": 986,
-    "timeWeek": 795,
+    "timeWeek": 784,
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 386,
     "timeDay": 395,
-    "timeWeek": 386,
+    "timeWeek": 403,
     "timeMonth": 386,
     "timeYear": 386,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1438,
     "timeDay": 1537,
-    "timeWeek": 1438,
+    "timeWeek": 1451,
     "timeMonth": 1438,
     "timeYear": 1438,
     "dailyMinutesDown": {}
@@ -94,18 +94,20 @@
     "url": "https://docs.umbcheckout.net",
     "icon": "https://icons.duckduckgo.com/ip3/docs.umbcheckout.net.ico",
     "slug": "umb-checkout-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
     "timeDay": 248,
-    "timeWeek": 345,
+    "timeWeek": 537,
     "timeMonth": 345,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-06": 0
+    }
   },
   {
     "name": "UmbCheckout Demo",
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 767,
     "timeDay": 950,
-    "timeWeek": 767,
+    "timeWeek": 756,
     "timeMonth": 767,
     "timeYear": 767,
     "dailyMinutesDown": {}
