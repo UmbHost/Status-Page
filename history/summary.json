@@ -112,9 +112,9 @@
     "url": "https://demo.umbcheckout.net",
     "icon": "https://icons.duckduckgo.com/ip3/demo.umbcheckout.net.ico",
     "slug": "umb-checkout-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 714,
     "timeMonth": 744,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   }
 ]
