@@ -76,19 +76,19 @@
     "url": "https://my.umbhost.net/store",
     "icon": "https://icons.duckduckgo.com/ip3/my.umbhost.net.ico",
     "slug": "umb-host-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 1204,
-    "timeWeek": 1320,
-    "timeMonth": 1347,
-    "timeYear": 1369,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1366,
+    "timeDay": 1208,
+    "timeWeek": 1307,
+    "timeMonth": 1343,
+    "timeYear": 1366,
     "dailyMinutesDown": {
-      "2024-04-01": 0
+      "2024-04-01": 9
     }
   },
   {
