@@ -4,18 +4,20 @@
     "url": "https://umbhost.net",
     "icon": "https://icons.duckduckgo.com/ip3/umbhost.net.ico",
     "slug": "umb-host-website-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 1328,
-    "timeWeek": 1020,
-    "timeMonth": 1086,
-    "timeYear": 1046,
-    "dailyMinutesDown": {}
+    "time": 1035,
+    "timeDay": 927,
+    "timeWeek": 958,
+    "timeMonth": 1068,
+    "timeYear": 1035,
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "UmbHost Website (US)",
@@ -40,36 +42,40 @@
     "url": "https://eu.umbhost.net",
     "icon": "https://icons.duckduckgo.com/ip3/eu.umbhost.net.ico",
     "slug": "umb-host-website-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 1012,
-    "timeWeek": 817,
-    "timeMonth": 780,
-    "timeYear": 781,
-    "dailyMinutesDown": {}
+    "time": 775,
+    "timeDay": 753,
+    "timeWeek": 777,
+    "timeMonth": 771,
+    "timeYear": 775,
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "UmbHost Website (AU)",
     "url": "https://eu.umbhost.net",
     "icon": "https://icons.duckduckgo.com/ip3/eu.umbhost.net.ico",
     "slug": "umb-host-website-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 405,
-    "timeWeek": 337,
-    "timeMonth": 327,
-    "timeYear": 346,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 261,
+    "timeWeek": 309,
+    "timeMonth": 321,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "UmbHost Store",
