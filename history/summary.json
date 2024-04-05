@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/umbhost.net.ico",
     "slug": "umb-host-website-uk",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 1035,
     "timeDay": 927,
     "timeWeek": 958,
     "timeMonth": 1068,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2024-04-05": 10
+      "2024-04-05": 34
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.umbhost.net.ico",
     "slug": "umb-host-website-us",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 191,
     "timeDay": 164,
     "timeWeek": 191,
     "timeMonth": 178,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-04-05": 0
+      "2024-04-05": 24
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://eu.umbhost.net",
     "icon": "https://icons.duckduckgo.com/ip3/eu.umbhost.net.ico",
     "slug": "umb-host-website-eu",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 775,
-    "timeDay": 753,
-    "timeWeek": 777,
-    "timeMonth": 771,
-    "timeYear": 775,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 763,
+    "timeDay": 562,
+    "timeWeek": 711,
+    "timeMonth": 754,
+    "timeYear": 763,
     "dailyMinutesDown": {
-      "2024-04-05": 10
+      "2024-04-05": 34
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://eu.umbhost.net",
     "icon": "https://icons.duckduckgo.com/ip3/eu.umbhost.net.ico",
     "slug": "umb-host-website-au",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 342,
-    "timeDay": 261,
-    "timeWeek": 309,
-    "timeMonth": 321,
-    "timeYear": 342,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 335,
+    "timeDay": 183,
+    "timeWeek": 278,
+    "timeMonth": 312,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-04-05": 10
+      "2024-04-05": 34
     }
   },
   {
