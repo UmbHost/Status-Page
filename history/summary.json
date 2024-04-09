@@ -10,11 +10,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 964,
-    "timeDay": 77,
-    "timeWeek": 581,
-    "timeMonth": 967,
-    "timeYear": 964,
+    "time": 947,
+    "timeDay": 88,
+    "timeWeek": 497,
+    "timeMonth": 946,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2024-04-05": 42
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.umbhost.net.ico",
     "slug": "umb-host-website-us",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 182,
-    "timeDay": 129,
-    "timeWeek": 150,
-    "timeMonth": 168,
+    "timeDay": 139,
+    "timeWeek": 149,
+    "timeMonth": 167,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-04-05": 32
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 725,
-    "timeDay": 79,
-    "timeWeek": 492,
-    "timeMonth": 697,
-    "timeYear": 725,
+    "time": 716,
+    "timeDay": 228,
+    "timeWeek": 441,
+    "timeMonth": 681,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2024-04-05": 34
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 317,
-    "timeDay": 23,
-    "timeWeek": 176,
-    "timeMonth": 285,
-    "timeYear": 317,
+    "time": 311,
+    "timeDay": 21,
+    "timeWeek": 148,
+    "timeMonth": 277,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2024-04-05": 34
     }
@@ -86,15 +86,15 @@
     "slug": "umb-host-store",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 1333,
-    "timeDay": 826,
-    "timeWeek": 1182,
-    "timeMonth": 1283,
-    "timeYear": 1333,
+    "time": 1331,
+    "timeDay": 1234,
+    "timeWeek": 1180,
+    "timeMonth": 1280,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2024-04-07": 34
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 328,
-    "timeWeek": 298,
-    "timeMonth": 311,
-    "timeYear": 313,
+    "time": 310,
+    "timeDay": 172,
+    "timeWeek": 312,
+    "timeMonth": 306,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   },
   {
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 618,
-    "timeWeek": 1416,
-    "timeMonth": 883,
-    "timeYear": 837,
+    "time": 834,
+    "timeDay": 680,
+    "timeWeek": 714,
+    "timeMonth": 882,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   }
 ]
