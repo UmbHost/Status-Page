@@ -124,17 +124,19 @@
     "url": "https://demo.umbcheckout.net",
     "icon": "https://icons.duckduckgo.com/ip3/demo.umbcheckout.net.ico",
     "slug": "umb-checkout-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 843,
-    "timeWeek": 751,
-    "timeMonth": 896,
-    "timeYear": 836,
-    "dailyMinutesDown": {}
+    "time": 862,
+    "timeDay": 1216,
+    "timeWeek": 909,
+    "timeMonth": 938,
+    "timeYear": 862,
+    "dailyMinutesDown": {
+      "2024-04-12": 0
+    }
   }
 ]
